@@ -5,4 +5,5 @@ spring:
     password: fiap
 
 file:
-  local: /Users/jaquelaurenti/Desktop/Exclusao/cervejaria-batch-tasklet.zip
+  path: /Users/jaquelaurenti/Desktop/Exclusao/teste.txt
+  input: classpath:pessoas.txt
